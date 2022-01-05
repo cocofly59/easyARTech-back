@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'eart.api.back-end' is invalid and this project uses 'eart.api.backend' instead.
+* The original package name 'eart.api.back-end' is invalid and this project uses 'eart.back.end' instead.
 
 # Getting Started
 
